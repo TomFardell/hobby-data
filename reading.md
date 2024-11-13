@@ -27,7 +27,7 @@
 | G.R.R Martin  | A Storm of Swords              |   1   | 01/01/23 |   9    |
 | G.R.R Martin  | A Clash of Kings               |       | 22/12/22 |   9    |
 | G.R.R Martin  | A Game of Thrones              |       | 28/10/22 |   10   |
-| D. Wong       | What the Hell did I just Read  |       | 21/07/22 |   6    |
+| D. Wong       | What the Hell Did I Just Read  |       | 21/07/22 |   6    |
 
 Italicised works are rereads. Note the original reading could have a different rating.
 
