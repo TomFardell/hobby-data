@@ -1,8 +1,12 @@
-# Piano History
+# Piano Data
 
 [Back](README.md)
 
-## Recent repertoire
+## History
+
+History of piano pieces learnt.
+
+### Recent repertoire
 
 |    Composer     |         Piece         | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | --------------------- | ------------ | -------- | :---: | :------: | :--------: |
@@ -55,7 +59,7 @@
 
 [^1] Piano arrangement by Harm Kramer 
 
-## Earlier pieces
+### Earlier pieces
 
 |    Composer    |            Piece            |    Cat. Number    |   Key    |   Year    | Completed |
 | -------------- | --------------------------- | ----------------- | -------- | :-------: | :-------: |

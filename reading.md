@@ -1,8 +1,12 @@
-# Reading History
+# Reading Data
 
 [Back](README.md)
 
-## Recent reading
+## History
+
+History of books read.
+
+### Recent reading
 
 |    Author     |             Title              | Part  |   Date   | Rating |
 | ------------- | ------------------------------ | :---: | :------: | :----: |
@@ -33,7 +37,7 @@
 
 Italicised works are rereads. Note the original reading could have a different rating.
 
-## Earlier books
+### Earlier books
 
 |          Author          |                Title                 |   Date   | Rating |
 | ------------------------ | ------------------------------------ | :------: | :----: |
