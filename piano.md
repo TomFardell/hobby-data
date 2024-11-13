@@ -1,5 +1,7 @@
 # Piano History
 
+[Back](README.md)
+
 ## Recent repertoire
 
 |    Composer     |         Piece         | Cat. Number  |   Key    | Page  |   Date   | Maintained |
