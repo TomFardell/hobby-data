@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |         Piece         | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | --------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| F. Schubert     | Sonata 21: Mvt.1      | D.960        | Bb Major |   4   | 09/01/25 |     *      |
 | F. Schubert     | Sonata 21: Mvt.1      | D.960        | Bb Major |   3   | 02/01/25 |     *      |
 | F. Schubert     | Sonata 21: Mvt.1      | D.960        | Bb Major |   2   | 25/12/24 |     *      |
 | F. Schubert     | Sonata 21: Mvt.1      | D.960        | Bb Major |   1   | 17/12/24 |     *      |
