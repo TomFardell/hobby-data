@@ -10,6 +10,7 @@ History of books read.
 
 |    Author     |             Title              | Part  |   Date   | Rating |
 | ------------- | ------------------------------ | :---: | :------: | :----: |
+| B. Sanderson  | Rhythm of War                  |   2   | 02/02/25 |   8    |
 | B. Sanderson  | Rhythm of War                  |   1   | 23/12/24 |   7    |
 | A. Sapkowski  | *Blood of Elves*               |       | 03/10/24 |   7    |
 | A. Sapkowski  | *The Sword of Destiny*         |       | 17/08/24 |   8    |
