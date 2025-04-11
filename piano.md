@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |          Piece          | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ----------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| R. Schumann     | Waldszenen: Eintritt    | Op.82 No.1   | Bb Major |   1   | 08/04/25 |     *      |
 | R. Schumann     | Bunte Blätter: Stücke 1 | Op.99 No.1   | A Major  |   1   | 25/03/25 |     *      |
 | D. Shostakovich | Prelude                 | Op.87 No.6   | B Minor  |   2   | 19/02/25 |     *      |
 | D. Shostakovich | Prelude                 | Op.87 No.6   | B Minor  |   1   | 06/02/25 |     *      |
