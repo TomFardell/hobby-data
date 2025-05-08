@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |          Piece          | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ----------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| F. Schubert     | Sonata 21: Mvt.3        | D.960        | Bb Major |   1   | 08/05/25 |     *      |
 | R. Schumann     | Waldszenen: Eintritt    | Op.82 No.1   | Bb Major |   2   | 18/04/25 |     *      |
 | R. Schumann     | Waldszenen: Eintritt    | Op.82 No.1   | Bb Major |   1   | 08/04/25 |     *      |
 | R. Schumann     | Bunte Blätter: Stücke 1 | Op.99 No.1   | A Major  |   1   | 25/03/25 |     *      |
