@@ -10,6 +10,8 @@ History of piano pieces learnt.
 
 |    Composer     |          Piece          | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ----------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   4   | 06/06/25 |     *      |
+| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   3   | 03/06/25 |     *      |
 | J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   2   | 28/05/25 |     *      |
 | J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   1   | 23/05/25 |     *      |
 | F. Schubert     | Sonata 21: Mvt.3        | D.960        | Bb Major |   2   | 13/05/25 |     *      |
