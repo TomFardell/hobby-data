@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |          Piece          | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ----------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| J.S. Bach       | Fugue                   | BWV 892      | B Major  |   3   | 31/07/25 |     *      |
 | J.S. Bach       | Fugue                   | BWV 892      | B Major  |   2   | 08/07/25 |     *      |
 | J.S. Bach       | Fugue                   | BWV 892      | B Major  |   1   | 29/06/25 |     *      |
 | J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   6   | 17/06/25 |     *      |
