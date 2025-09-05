@@ -8,6 +8,8 @@ History of books read.
 
 ### Recent reading
 
+#### Fiction
+
 |    Author     |             Title              | Part  |   Date   | Rating |
 | ------------- | ------------------------------ | :---: | :------: | :----: |
 | B. Sanderson  | Wind and Truth                 |       | 20/06/25 |   7    |
@@ -39,6 +41,12 @@ History of books read.
 | D. Wong       | What the Hell Did I Just Read  |       | 21/07/22 |   6    |
 
 Italicised works are rereads. Note the original reading could have a different rating.
+
+#### Non-fiction
+
+|      Author       |     Title      |   Date   |
+| ----------------- | -------------- | :------: |
+| Dr Micheal Mosley | Just One Thing | 04/09/25 |
 
 ### Earlier books
 
