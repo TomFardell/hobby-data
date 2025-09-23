@@ -10,6 +10,8 @@ History of piano pieces learnt.
 
 |    Composer     |          Piece          | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ----------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| J.S. Bach       | Fugue                   | BWV 869      | B Minor  |   7   | 22/09/25 |     *      |
+| J.S. Bach       | Fugue                   | BWV 869      | B Minor  |   6   | 20/09/25 |     *      |
 | J.S. Bach       | Fugue                   | BWV 869      | B Minor  |   5   | 10/09/25 |     *      |
 | J.S. Bach       | Fugue                   | BWV 869      | B Minor  |   4   | 03/09/25 |     *      |
 | J.S. Bach       | Fugue                   | BWV 869      | B Minor  |   3   | 23/08/25 |     *      |
