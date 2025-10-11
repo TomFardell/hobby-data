@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |          Piece          | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ----------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| D. Shostakovich | Prelude                 | Op.34 No.4   | E Minor  |   1   | 09/10/25 |     *      |
 | D. Shostakovich | Prelude                 | Op.34 No.12  | G# Minor |   3   | 06/10/25 |     *      |
 | D. Shostakovich | Prelude                 | Op.34 No.12  | G# Minor |   2   | 30/09/25 |     *      |
 | D. Shostakovich | Prelude                 | Op.34 No.12  | G# Minor |   1   | 26/09/25 |     *      |
@@ -24,12 +25,12 @@ History of piano pieces learnt.
 | J.S. Bach       | Fugue                   | BWV 892      | B Major  |   3   | 31/07/25 |     *      |
 | J.S. Bach       | Fugue                   | BWV 892      | B Major  |   2   | 08/07/25 |     *      |
 | J.S. Bach       | Fugue                   | BWV 892      | B Major  |   1   | 29/06/25 |     *      |
-| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   6   | 17/06/25 |     *      |
-| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   5   | 11/06/25 |     *      |
-| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   4   | 06/06/25 |     *      |
-| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   3   | 03/06/25 |     *      |
-| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   2   | 28/05/25 |     *      |
-| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   1   | 23/05/25 |     *      |
+| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   6   | 17/06/25 |            |
+| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   5   | 11/06/25 |            |
+| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   4   | 06/06/25 |            |
+| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   3   | 03/06/25 |            |
+| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   2   | 28/05/25 |            |
+| J. Haydn        | Sonata 23: Mvt.1        | Hob.XVI:23   | F Major  |   1   | 23/05/25 |            |
 | F. Schubert     | Sonata 21: Mvt.3        | D.960        | Bb Major |   2   | 13/05/25 |            |
 | F. Schubert     | Sonata 21: Mvt.3        | D.960        | Bb Major |   1   | 08/05/25 |            |
 | R. Schumann     | Waldszenen: Eintritt    | Op.82 No.1   | Bb Major |   2   | 18/04/25 |            |
@@ -66,10 +67,10 @@ History of piano pieces learnt.
 | N. Medtner      | Canzona Matinata        | Op.39 No.4   | G Major  |   3   | 01/04/24 |            |
 | N. Medtner      | Canzona Matinata        | Op.39 No.4   | G Major  |   2   | 26/03/24 |            |
 | N. Medtner      | Canzona Matinata        | Op.39 No.4   | G Major  |   1   | 11/02/24 |            |
-| D. Shostakovich | Fugue                   | Op.87 No.4   | E Minor  |   4   | 04/01/24 |     *      |
-| D. Shostakovich | Fugue                   | Op.87 No.4   | E Minor  |   3   | 26/12/23 |     *      |
-| D. Shostakovich | Fugue                   | Op.87 No.4   | E Minor  |   2   | 02/12/23 |     *      |
-| D. Shostakovich | Fugue                   | Op.87 No.4   | E Minor  |   1   | 22/10/23 |     *      |
+| D. Shostakovich | Fugue                   | Op.87 No.4   | E Minor  |   4   | 04/01/24 |            |
+| D. Shostakovich | Fugue                   | Op.87 No.4   | E Minor  |   3   | 26/12/23 |            |
+| D. Shostakovich | Fugue                   | Op.87 No.4   | E Minor  |   2   | 02/12/23 |            |
+| D. Shostakovich | Fugue                   | Op.87 No.4   | E Minor  |   1   | 22/10/23 |            |
 | D. Shostakovich | Prelude                 | Op.87 No.17  | Ab Major |   2   | 27/09/23 |            |
 | D. Shostakovich | Prelude                 | Op.87 No.17  | Ab Major |   1   | 23/09/23 |            |
 | S. Prokofiev    | Mercutio                | Op.75 No.8   | Ab Major |   5   | 11/09/23 |            |
