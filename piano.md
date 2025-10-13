@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |          Piece          | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ----------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| D. Shostakovich | Prelude                 | Op.34 No.4   | E Minor  |   2   | 13/10/25 |     *      |
 | D. Shostakovich | Prelude                 | Op.34 No.4   | E Minor  |   1   | 09/10/25 |     *      |
 | D. Shostakovich | Prelude                 | Op.34 No.12  | G# Minor |   3   | 06/10/25 |     *      |
 | D. Shostakovich | Prelude                 | Op.34 No.12  | G# Minor |   2   | 30/09/25 |     *      |
