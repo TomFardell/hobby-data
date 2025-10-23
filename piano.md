@@ -96,8 +96,8 @@ History of piano pieces learnt.
 | P. Tchaikovsky  | Valse-Scherzo                   | Op.7         | A Major  |   2   | 07/04/23 |            |
 | P. Tchaikovsky  | Valse-Scherzo                   | Op.7         | A Major  |   1   | 01/04/23 |            |
 
-[^1] Piano arrangement by August Stradal 
-[^2] Piano arrangement by Harm Kramer 
+[^1]: Piano arrangement by August Stradal 
+[^2]: Piano arrangement by Harm Kramer 
 
 ### Earlier pieces
 
@@ -110,4 +110,4 @@ History of piano pieces learnt.
 | S. Rachmaninov | Prelude                     | Op.32 No.5        | G Major  |   2022    |     *     |
 | S. Rachmaninov | Prelude                     | Op.32 No.10       | B Minor  |   2022    |     *     |
 
-[^3] Piano arrangement by the composer
+[^3]: Piano arrangement by the composer
