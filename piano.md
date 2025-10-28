@@ -10,7 +10,8 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
-| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   1   | 20/10/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   2   | 27/10/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   1   | 20/10/25 |     *      |
 | D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   2   | 13/10/25 |     *      |
 | D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   1   | 09/10/25 |     *      |
 | D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   3   | 06/10/25 |     *      |
