@@ -10,7 +10,8 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
-| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   2   | 27/10/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   3   | 20/11/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   2   | 27/10/25 |     *      |
 | R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   1   | 20/10/25 |     *      |
 | D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   2   | 13/10/25 |     *      |
 | D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   1   | 09/10/25 |     *      |
@@ -46,12 +47,12 @@ History of piano pieces learnt.
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   3   | 02/01/25 |            |
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   2   | 25/12/24 |            |
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   1   | 17/12/24 |            |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   4   | 09/12/24 |     *      |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   3   | 30/11/24 |     *      |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   2   | 23/11/24 |     *      |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   1   | 14/11/24 |     *      |
-| J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   2   | 27/10/24 |     *      |
-| J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   1   | 16/10/24 |     *      |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   4   | 09/12/24 |            |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   3   | 30/11/24 |            |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   2   | 23/11/24 |            |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   1   | 14/11/24 |            |
+| J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   2   | 27/10/24 |            |
+| J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   1   | 16/10/24 |            |
 | D. Shostakovich | Prelude                         | Op.87 No.4   | E Minor  |   2   | 25/09/24 |            |
 | D. Shostakovich | Prelude                         | Op.87 No.4   | E Minor  |   1   | 13/09/24 |            |
 | D. Shostakovich | Symphony 7: Mvt.2[^2]           | Op.60        | C Major  |   6   | 02/09/24 |            |
@@ -60,8 +61,8 @@ History of piano pieces learnt.
 | D. Shostakovich | Symphony 7: Mvt.2               | Op.60        | C Major  |   3   | 08/08/24 |            |
 | D. Shostakovich | Symphony 7: Mvt.2               | Op.60        | C Major  |   2   | 01/08/24 |            |
 | D. Shostakovich | Symphony 7: Mvt.2               | Op.60        | C Major  |   1   | 31/07/24 |            |
-| J.S Bach        | Prelude                         | BWV 870      | C Major  |   2   | 12/07/24 |     *      |
-| J.S Bach        | Prelude                         | BWV 870      | C Major  |   1   | 23/06/24 |     *      |
+| J.S Bach        | Prelude                         | BWV 870      | C Major  |   2   | 12/07/24 |            |
+| J.S Bach        | Prelude                         | BWV 870      | C Major  |   1   | 23/06/24 |            |
 | S. Rachmaninov  | Étude-Tableau                   | Op.33 No.3   | C Minor  |   2   | 01/06/24 |            |
 | S. Rachmaninov  | Étude-Tableau                   | Op.33 No.3   | C Minor  |   1   | 15/05/24 |            |
 | N. Medtner      | Canzona Matinata                | Op.39 No.4   | G Major  |   6   | 11/05/24 |            |
@@ -81,11 +82,11 @@ History of piano pieces learnt.
 | S. Prokofiev    | Mercutio                        | Op.75 No.8   | Ab Major |   3   | 27/08/23 |            |
 | S. Prokofiev    | Mercutio                        | Op.75 No.8   | Ab Major |   2   | 22/08/23 |            |
 | S. Prokofiev    | Mercutio                        | Op.75 No.8   | Ab Major |   1   | 17/08/23 |            |
-| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   5   | 16/08/23 |     *      |
-| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   4   | 10/08/23 |     *      |
-| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   3   | 01/08/23 |     *      |
-| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   2   | 07/07/23 |     *      |
-| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   1   | 23/06/23 |     *      |
+| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   5   | 16/08/23 |            |
+| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   4   | 10/08/23 |            |
+| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   3   | 01/08/23 |            |
+| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   2   | 07/07/23 |            |
+| D. Shostakovich | Fugue                           | Op.87 No.6   | B Minor  |   1   | 23/06/23 |            |
 | G.F. Handel     | Allemande                       | HWV 433 No.3 | F Minor  |   2   | 07/06/23 |            |
 | G.F. Handel     | Allemande                       | HWV 433 No.3 | F Minor  |   1   | 11/05/23 |            |
 | P. Tchaikovsky  | Valse-Scherzo                   | Op.7         | A Major  |   8   | 30/04/23 |            |
