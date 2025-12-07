@@ -12,6 +12,7 @@ History of books read.
 
 |    Author     |             Title              | Part  |   Date   | Rating |
 | ------------- | ------------------------------ | :---: | :------: | :----: |
+| G.R.R Martin  | *Fire and Blood*               |       | 06/12/25 |   8    |
 | B. Sanderson  | Wind and Truth                 |       | 20/06/25 |   7    |
 | B. Sanderson  | Rhythm of War                  |   2   | 02/02/25 |   8    |
 | B. Sanderson  | Rhythm of War                  |   1   | 23/12/24 |   7    |
