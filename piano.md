@@ -10,14 +10,15 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
-| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   3   | 20/11/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   4   | 12/12/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   3   | 20/11/25 |     *      |
 | R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   2   | 27/10/25 |     *      |
 | R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   1   | 20/10/25 |     *      |
-| D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   2   | 13/10/25 |     *      |
-| D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   1   | 09/10/25 |     *      |
-| D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   3   | 06/10/25 |     *      |
-| D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   2   | 30/09/25 |     *      |
-| D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   1   | 26/09/25 |     *      |
+| D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   2   | 13/10/25 |            |
+| D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   1   | 09/10/25 |            |
+| D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   3   | 06/10/25 |            |
+| D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   2   | 30/09/25 |            |
+| D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   1   | 26/09/25 |            |
 | J.S. Bach       | Fugue                           | BWV 869      | B Minor  |   7   | 22/09/25 |     *      |
 | J.S. Bach       | Fugue                           | BWV 869      | B Minor  |   6   | 20/09/25 |     *      |
 | J.S. Bach       | Fugue                           | BWV 869      | B Minor  |   5   | 10/09/25 |     *      |
@@ -98,7 +99,7 @@ History of piano pieces learnt.
 | P. Tchaikovsky  | Valse-Scherzo                   | Op.7         | A Major  |   2   | 07/04/23 |            |
 | P. Tchaikovsky  | Valse-Scherzo                   | Op.7         | A Major  |   1   | 01/04/23 |            |
 
-[^1]: Piano arrangement by August Stradal 
+[^1]: Combined piano arrangements by August Stradal and Zoltán Kocsis
 [^2]: Piano arrangement by Harm Kramer 
 
 ### Earlier pieces
