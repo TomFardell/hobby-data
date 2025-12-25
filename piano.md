@@ -10,7 +10,8 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
-| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   4   | 12/12/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   5   | 21/12/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   4   | 12/12/25 |     *      |
 | R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   3   | 20/11/25 |     *      |
 | R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   2   | 27/10/25 |     *      |
 | R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   1   | 20/10/25 |     *      |
