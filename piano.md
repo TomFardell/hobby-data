@@ -110,11 +110,11 @@ History of piano pieces learnt.
 
 |    Composer    |            Piece            |    Cat. Number    |   Key    |   Year    | Completed |
 | -------------- | --------------------------- | ----------------- | -------- | :-------: | :-------: |
-| P. Tchaikovsky | Waltz of the Snowflakes[^3] | Op.71 Act 1, No.9 | G Major  |   2023    |           |
-| P. Tchaikovsky | Grandfather's Dance[^3]     | Op.71 Act 1, No.5 | A Major  |   2023    |           |
+| P. Tchaikovsky | Waltz of the Snowflakes[^4] | Op.71 Act 1, No.9 | G Major  |   2023    |           |
+| P. Tchaikovsky | Grandfather's Dance[^4]     | Op.71 Act 1, No.5 | A Major  |   2023    |           |
 | S. Prokofiev   | Sonata 7: Mvt.1             | Op.83             | Bb Major | 2022-2023 |           |
 | S. Rachmaninov | Étude-Tableau               | Op.33 No.1        | F Minor  |   2022    |     *     |
 | S. Rachmaninov | Prelude                     | Op.32 No.5        | G Major  |   2022    |     *     |
 | S. Rachmaninov | Prelude                     | Op.32 No.10       | B Minor  |   2022    |     *     |
 
-[^3]: Piano arrangement by the composer
+[^4]: Piano arrangement by the composer
