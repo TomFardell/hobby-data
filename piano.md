@@ -10,11 +10,13 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
-| R. Wagner       | Parsifal: Verwandlungsmusik[^1] | WWV 111      | A Major  |   5   | 21/12/25 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   4   | 12/12/25 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   3   | 20/11/25 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   2   | 27/10/25 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | A Major  |   1   | 20/10/25 |     *      |
+| R. Wagner       | Parsifal: Finale[^1]            | WWV 111      | Varies   |   1   | 14/01/26 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik[^2] | WWV 111      | Varies   |   6   | 13/01/26 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   5   | 21/12/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   4   | 12/12/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   3   | 20/11/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   2   | 27/10/25 |     *      |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   1   | 20/10/25 |     *      |
 | D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   2   | 13/10/25 |            |
 | D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   1   | 09/10/25 |            |
 | D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   3   | 06/10/25 |            |
@@ -57,7 +59,7 @@ History of piano pieces learnt.
 | J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   1   | 16/10/24 |            |
 | D. Shostakovich | Prelude                         | Op.87 No.4   | E Minor  |   2   | 25/09/24 |            |
 | D. Shostakovich | Prelude                         | Op.87 No.4   | E Minor  |   1   | 13/09/24 |            |
-| D. Shostakovich | Symphony 7: Mvt.2[^2]           | Op.60        | C Major  |   6   | 02/09/24 |            |
+| D. Shostakovich | Symphony 7: Mvt.2[^3]           | Op.60        | C Major  |   6   | 02/09/24 |            |
 | D. Shostakovich | Symphony 7: Mvt.2               | Op.60        | C Major  |   5   | 19/08/24 |            |
 | D. Shostakovich | Symphony 7: Mvt.2               | Op.60        | C Major  |   4   | 12/08/24 |            |
 | D. Shostakovich | Symphony 7: Mvt.2               | Op.60        | C Major  |   3   | 08/08/24 |            |
@@ -100,8 +102,9 @@ History of piano pieces learnt.
 | P. Tchaikovsky  | Valse-Scherzo                   | Op.7         | A Major  |   2   | 07/04/23 |            |
 | P. Tchaikovsky  | Valse-Scherzo                   | Op.7         | A Major  |   1   | 01/04/23 |            |
 
-[^1]: Combined piano arrangements by August Stradal and Zoltán Kocsis
-[^2]: Piano arrangement by Harm Kramer 
+[^1]: Piano arrangement by Zoltán Kocsis
+[^2]: Altered piano arrangement by August Stradal
+[^3]: Piano arrangement by Harm Kramer 
 
 ### Earlier pieces
 
