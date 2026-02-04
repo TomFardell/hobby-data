@@ -10,7 +10,8 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
-| R. Wagner       | Parsifal: Finale[^1]            | WWV 111      | Varies   |   2   | 22/01/26 |     *      |
+| R. Wagner       | Parsifal: Finale[^1]            | WWV 111      | Varies   |   3   | 04/02/26 |     *      |
+| R. Wagner       | Parsifal: Finale                | WWV 111      | Varies   |   2   | 22/01/26 |     *      |
 | R. Wagner       | Parsifal: Finale                | WWV 111      | Varies   |   1   | 14/01/26 |     *      |
 | R. Wagner       | Parsifal: Verwandlungsmusik[^2] | WWV 111      | Varies   |   7   | 14/01/26 |     *      |
 | R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   6   | 13/01/26 |     *      |
