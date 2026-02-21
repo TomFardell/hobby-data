@@ -10,16 +10,17 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
-| R. Wagner       | Parsifal: Finale[^1]            | WWV 111      | Varies   |   3   | 04/02/26 |     *      |
-| R. Wagner       | Parsifal: Finale                | WWV 111      | Varies   |   2   | 22/01/26 |     *      |
-| R. Wagner       | Parsifal: Finale                | WWV 111      | Varies   |   1   | 14/01/26 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik[^2] | WWV 111      | Varies   |   7   | 14/01/26 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   6   | 13/01/26 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   5   | 21/12/25 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   4   | 12/12/25 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   3   | 20/11/25 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   2   | 27/10/25 |     *      |
-| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   1   | 20/10/25 |     *      |
+| J.S. Bach       | Fugue                           | BWV 849      | C# Minor |   1   | 19/02/26 |     *      |
+| R. Wagner       | Parsifal: Finale[^1]            | WWV 111      | Varies   |   3   | 04/02/26 |            |
+| R. Wagner       | Parsifal: Finale                | WWV 111      | Varies   |   2   | 22/01/26 |            |
+| R. Wagner       | Parsifal: Finale                | WWV 111      | Varies   |   1   | 14/01/26 |            |
+| R. Wagner       | Parsifal: Verwandlungsmusik[^2] | WWV 111      | Varies   |   7   | 14/01/26 |            |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   6   | 13/01/26 |            |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   5   | 21/12/25 |            |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   4   | 12/12/25 |            |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   3   | 20/11/25 |            |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   2   | 27/10/25 |            |
+| R. Wagner       | Parsifal: Verwandlungsmusik     | WWV 111      | Varies   |   1   | 20/10/25 |            |
 | D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   2   | 13/10/25 |            |
 | D. Shostakovich | Prelude                         | Op.34 No.4   | E Minor  |   1   | 09/10/25 |            |
 | D. Shostakovich | Prelude                         | Op.34 No.12  | G# Minor |   3   | 06/10/25 |            |
@@ -54,10 +55,10 @@ History of piano pieces learnt.
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   3   | 02/01/25 |            |
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   2   | 25/12/24 |            |
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   1   | 17/12/24 |            |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   4   | 09/12/24 |            |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   3   | 30/11/24 |            |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   2   | 23/11/24 |            |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   1   | 14/11/24 |            |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   4   | 09/12/24 |     *      |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   3   | 30/11/24 |     *      |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   2   | 23/11/24 |     *      |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   1   | 14/11/24 |     *      |
 | J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   2   | 27/10/24 |            |
 | J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   1   | 16/10/24 |            |
 | D. Shostakovich | Prelude                         | Op.87 No.4   | E Minor  |   2   | 25/09/24 |            |
