@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| J.S. Bach       | Fugue                           | BWV 849      | C# Minor |   2   | 28/02/26 |     *      |
 | J.S. Bach       | Fugue                           | BWV 849      | C# Minor |   1   | 19/02/26 |     *      |
 | R. Wagner       | Parsifal: Finale[^1]            | WWV 111      | Varies   |   3   | 04/02/26 |            |
 | R. Wagner       | Parsifal: Finale                | WWV 111      | Varies   |   2   | 22/01/26 |            |
