@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   4   | 09/05/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   3   | 17/04/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   2   | 08/04/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   1   | 31/03/26 |     *      |
