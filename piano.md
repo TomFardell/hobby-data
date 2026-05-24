@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   5   | 21/05/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   4   | 09/05/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   3   | 17/04/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   2   | 08/04/26 |     *      |
@@ -62,10 +63,10 @@ History of piano pieces learnt.
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   3   | 02/01/25 |            |
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   2   | 25/12/24 |            |
 | F. Schubert     | Sonata 21: Mvt.1                | D.960        | Bb Major |   1   | 17/12/24 |            |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   4   | 09/12/24 |     *      |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   3   | 30/11/24 |     *      |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   2   | 23/11/24 |     *      |
-| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   1   | 14/11/24 |     *      |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   4   | 09/12/24 |            |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   3   | 30/11/24 |            |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   2   | 23/11/24 |            |
+| J.S. Bach       | Fugue                           | BWV 877      | D# Minor |   1   | 14/11/24 |            |
 | J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   2   | 27/10/24 |            |
 | J.S. Bach       | Prelude                         | BWV 862      | Ab Major |   1   | 16/10/24 |            |
 | D. Shostakovich | Prelude                         | Op.87 No.4   | E Minor  |   2   | 25/09/24 |            |
