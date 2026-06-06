@@ -46,9 +46,12 @@ Italicised works are rereads. Note the original reading could have a different r
 
 #### Non-fiction
 
-|      Author       |     Title      |   Date   |
-| ----------------- | -------------- | :------: |
-| Dr Micheal Mosley | Just One Thing | 04/09/25 |
+|      Author       |          Title           |   Date   |
+| ----------------- | ------------------------ | :------: |
+| Dr Micheal Mosley | Just One Thing           | 04/09/25 |
+| Scott Chacon      | Pro Git (85%)            | 15/04/26 |
+| Jon Stokes        | Inside the Machine (45%) | 17/05/26 |
+| Robert Kiyosaki   | Rich Dad Poor Dad        | 01/06/26 |
 
 ### Earlier books
 
