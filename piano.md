@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   1   | 15/06/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   5   | 21/05/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   4   | 09/05/26 |     *      |
 | F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   3   | 17/04/26 |     *      |
