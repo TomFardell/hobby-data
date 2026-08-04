@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   5   | 04/08/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   4   | 25/07/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   3   | 15/07/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   2   | 24/06/26 |     *      |
