@@ -10,16 +10,17 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| D. Shostakovich | Fugue                           | Op.87 No.22  | G Minor  |   1   | 22/08/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   5   | 04/08/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   4   | 25/07/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   3   | 15/07/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   2   | 24/06/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.23  | F Major  |   1   | 15/06/26 |     *      |
-| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   5   | 21/05/26 |     *      |
-| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   4   | 09/05/26 |     *      |
-| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   3   | 17/04/26 |     *      |
-| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   2   | 08/04/26 |     *      |
-| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   1   | 31/03/26 |     *      |
+| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   5   | 21/05/26 |            |
+| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   4   | 09/05/26 |            |
+| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   3   | 17/04/26 |            |
+| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   2   | 08/04/26 |            |
+| F. Chopin       | Nocturne                        | Op.62 No.2   | E Major  |   1   | 31/03/26 |            |
 | J.S. Bach       | Fugue                           | BWV 849      | C# Minor |   4   | 21/03/26 |     *      |
 | J.S. Bach       | Fugue                           | BWV 849      | C# Minor |   3   | 14/03/26 |     *      |
 | J.S. Bach       | Fugue                           | BWV 849      | C# Minor |   2   | 28/02/26 |     *      |
