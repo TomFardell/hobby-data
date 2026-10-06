@@ -10,38 +10,39 @@ History of books read.
 
 #### Fiction
 
-|     Author     |                Title                 | Part  |   Date   | Rating |
-| -------------- | ------------------------------------ | :---: | :------: | :----: |
-| A. Conan Doyle | The Five Orange Pips and Other Cases |       | 10/09/26 |   9    |
-| T. Clancy      | The Hunt for Red October             |       | 04/02/26 |   7    |
-| G.R.R Martin   | *Fire and Blood*                     |       | 06/12/25 |   8    |
-| B. Sanderson   | Wind and Truth                       |       | 20/06/25 |   7    |
-| B. Sanderson   | Rhythm of War                        |   2   | 02/02/25 |   8    |
-| B. Sanderson   | Rhythm of War                        |   1   | 23/12/24 |   7    |
-| A. Sapkowski   | *Blood of Elves*                     |       | 03/10/24 |   7    |
-| A. Sapkowski   | *The Sword of Destiny*               |       | 17/08/24 |   8    |
-| A. Sapkowski   | *The Last Wish*                      |       | 21/07/24 |   8    |
-| R. Jordan      | The Eye of the World                 |       | 22/06/24 |   4    |
-| M. Druon       | The Iron King                        |       | 02/02/24 |   8    |
-| B. Sanderson   | Dawnshard                            |       | 13/01/24 |   6    |
-| B. Sanderson   | Oathbringer                          |   2   | 27/12/23 |   6    |
-| B. Sanderson   | Oathbringer                          |   1   | 26/10/23 |   7    |
-| B. Sanderson   | Edgedancer                           |       | 21/09/23 |   7    |
-| B. Sanderson   | Words of Radiance                    |   2   | 12/09/23 |   9    |
-| B. Sanderson   | Words of Radiance                    |   1   | 08/09/23 |   8    |
-| B. Sanderson   | The Way of Kings                     |   2   | 30/08/23 |   9    |
-| B. Sanderson   | The Way of Kings                     |   1   | 26/08/23 |   8    |
-| J.R.R Tolkien  | The Lord of the Rings                |       | 13/08/23 |   6    |
-| G.R.R Martin   | Fire and Blood                       |       | 17/05/23 |   10   |
-| G.R.R Martin   | A Knight of the Seven Kingdoms       |       | 22/03/23 |   7    |
-| G.R.R Martin   | A Dance with Dragons                 |   2   | 04/03/23 |   10   |
-| G.R.R Martin   | A Dance with Dragons                 |   1   | 01/03/23 |   9    |
-| G.R.R Martin   | A Feast for Crows                    |       | 04/02/23 |   8    |
-| G.R.R Martin   | A Storm of Swords                    |   2   | 18/01/23 |   10   |
-| G.R.R Martin   | A Storm of Swords                    |   1   | 01/01/23 |   9    |
-| G.R.R Martin   | A Clash of Kings                     |       | 22/12/22 |   9    |
-| G.R.R Martin   | A Game of Thrones                    |       | 28/10/22 |   10   |
-| D. Wong        | What the Hell Did I Just Read        |       | 21/07/22 |   6    |
+|     Author     |                     Title                      | Part  |   Date   | Rating |
+| -------------- | ---------------------------------------------- | :---: | :------: | :----: |
+| A. Conan Doyle | The Adventure of Six Napoleons and Other Cases |       | 04/10/26 |   8    |
+| A. Conan Doyle | The Five Orange Pips and Other Cases           |       | 10/09/26 |   9    |
+| T. Clancy      | The Hunt for Red October                       |       | 04/02/26 |   7    |
+| G.R.R Martin   | *Fire and Blood*                               |       | 06/12/25 |   8    |
+| B. Sanderson   | Wind and Truth                                 |       | 20/06/25 |   7    |
+| B. Sanderson   | Rhythm of War                                  |   2   | 02/02/25 |   8    |
+| B. Sanderson   | Rhythm of War                                  |   1   | 23/12/24 |   7    |
+| A. Sapkowski   | *Blood of Elves*                               |       | 03/10/24 |   7    |
+| A. Sapkowski   | *The Sword of Destiny*                         |       | 17/08/24 |   8    |
+| A. Sapkowski   | *The Last Wish*                                |       | 21/07/24 |   8    |
+| R. Jordan      | The Eye of the World                           |       | 22/06/24 |   4    |
+| M. Druon       | The Iron King                                  |       | 02/02/24 |   8    |
+| B. Sanderson   | Dawnshard                                      |       | 13/01/24 |   6    |
+| B. Sanderson   | Oathbringer                                    |   2   | 27/12/23 |   6    |
+| B. Sanderson   | Oathbringer                                    |   1   | 26/10/23 |   7    |
+| B. Sanderson   | Edgedancer                                     |       | 21/09/23 |   7    |
+| B. Sanderson   | Words of Radiance                              |   2   | 12/09/23 |   9    |
+| B. Sanderson   | Words of Radiance                              |   1   | 08/09/23 |   8    |
+| B. Sanderson   | The Way of Kings                               |   2   | 30/08/23 |   9    |
+| B. Sanderson   | The Way of Kings                               |   1   | 26/08/23 |   8    |
+| J.R.R Tolkien  | The Lord of the Rings                          |       | 13/08/23 |   6    |
+| G.R.R Martin   | Fire and Blood                                 |       | 17/05/23 |   10   |
+| G.R.R Martin   | A Knight of the Seven Kingdoms                 |       | 22/03/23 |   7    |
+| G.R.R Martin   | A Dance with Dragons                           |   2   | 04/03/23 |   10   |
+| G.R.R Martin   | A Dance with Dragons                           |   1   | 01/03/23 |   9    |
+| G.R.R Martin   | A Feast for Crows                              |       | 04/02/23 |   8    |
+| G.R.R Martin   | A Storm of Swords                              |   2   | 18/01/23 |   10   |
+| G.R.R Martin   | A Storm of Swords                              |   1   | 01/01/23 |   9    |
+| G.R.R Martin   | A Clash of Kings                               |       | 22/12/22 |   9    |
+| G.R.R Martin   | A Game of Thrones                              |       | 28/10/22 |   10   |
+| D. Wong        | What the Hell Did I Just Read                  |       | 21/07/22 |   6    |
 
 Italicised works are rereads. Note the original reading could have a different rating.
 
