@@ -10,6 +10,7 @@ History of piano pieces learnt.
 
 |    Composer     |              Piece              | Cat. Number  |   Key    | Page  |   Date   | Maintained |
 | --------------- | ------------------------------- | ------------ | -------- | :---: | :------: | :--------: |
+| F. Hensel       | Mélodie                         | Op.5 No.4    | B Major  |   2   | 02/11/26 |     *      |
 | F. Hensel       | Mélodie                         | Op.5 No.4    | B Major  |   1   | 21/10/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.22  | G Minor  |   4   | 02/10/26 |     *      |
 | D. Shostakovich | Fugue                           | Op.87 No.22  | G Minor  |   3   | 24/09/26 |     *      |
@@ -51,10 +52,10 @@ History of piano pieces learnt.
 | J.S. Bach       | Fugue                           | BWV 869      | B Minor  |   3   | 23/08/25 |     *      |
 | J.S. Bach       | Fugue                           | BWV 869      | B Minor  |   2   | 15/08/25 |     *      |
 | J.S. Bach       | Fugue                           | BWV 869      | B Minor  |   1   | 10/08/25 |     *      |
-| J.S. Bach       | Fugue                           | BWV 892      | B Major  |   4   | 07/08/25 |     *      |
-| J.S. Bach       | Fugue                           | BWV 892      | B Major  |   3   | 31/07/25 |     *      |
-| J.S. Bach       | Fugue                           | BWV 892      | B Major  |   2   | 08/07/25 |     *      |
-| J.S. Bach       | Fugue                           | BWV 892      | B Major  |   1   | 29/06/25 |     *      |
+| J.S. Bach       | Fugue                           | BWV 892      | B Major  |   4   | 07/08/25 |            |
+| J.S. Bach       | Fugue                           | BWV 892      | B Major  |   3   | 31/07/25 |            |
+| J.S. Bach       | Fugue                           | BWV 892      | B Major  |   2   | 08/07/25 |            |
+| J.S. Bach       | Fugue                           | BWV 892      | B Major  |   1   | 29/06/25 |            |
 | J. Haydn        | Sonata 23: Mvt.1                | Hob.XVI:23   | F Major  |   6   | 17/06/25 |            |
 | J. Haydn        | Sonata 23: Mvt.1                | Hob.XVI:23   | F Major  |   5   | 11/06/25 |            |
 | J. Haydn        | Sonata 23: Mvt.1                | Hob.XVI:23   | F Major  |   4   | 06/06/25 |            |
