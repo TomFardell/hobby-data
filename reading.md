@@ -10,49 +10,51 @@ History of books read. The ratings are centred around a baseline of 5.5 (5 would
 
 #### Fiction
 
-|     Author     |                      Title                      | Part  |   Date   | Rating |
-| -------------- | ----------------------------------------------- | :---: | :------: | :----: |
-| J. K. Jerome   | The Street of the Blank Wall: And Other Stories |       | 14/10/26 |   6    |
-| A. Conan Doyle | The Adventure of Six Napoleons and Other Cases  |       | 04/10/26 |   6    |
-| A. Conan Doyle | The Five Orange Pips and Other Cases            |       | 10/09/26 |   7    |
-| T. Clancy      | The Hunt for Red October                        |       | 04/02/26 |   5    |
-| G.R.R Martin   | *Fire and Blood*                                |       | 06/12/25 |   6    |
-| B. Sanderson   | Wind and Truth                                  |       | 20/06/25 |   5    |
-| B. Sanderson   | Rhythm of War                                   |   2   | 02/02/25 |   6    |
-| B. Sanderson   | Rhythm of War                                   |   1   | 23/12/24 |   5    |
-| A. Sapkowski   | *Blood of Elves*                                |       | 03/10/24 |   5    |
-| A. Sapkowski   | *The Sword of Destiny*                          |       | 17/08/24 |   6    |
-| A. Sapkowski   | *The Last Wish*                                 |       | 21/07/24 |   6    |
-| R. Jordan      | The Eye of the World                            |       | 22/06/24 |   3    |
-| M. Druon       | The Iron King                                   |       | 02/02/24 |   6    |
-| B. Sanderson   | Dawnshard                                       |       | 13/01/24 |   4    |
-| B. Sanderson   | Oathbringer                                     |   2   | 27/12/23 |   4    |
-| B. Sanderson   | Oathbringer                                     |   1   | 26/10/23 |   5    |
-| B. Sanderson   | Edgedancer                                      |       | 21/09/23 |   5    |
-| B. Sanderson   | Words of Radiance                               |   2   | 12/09/23 |   7    |
-| B. Sanderson   | Words of Radiance                               |   1   | 08/09/23 |   6    |
-| B. Sanderson   | The Way of Kings                                |   2   | 30/08/23 |   8    |
-| B. Sanderson   | The Way of Kings                                |   1   | 26/08/23 |   6    |
-| J.R.R Tolkien  | The Lord of the Rings                           |       | 13/08/23 |   4    |
-| G.R.R Martin   | Fire and Blood                                  |       | 17/05/23 |   8    |
-| G.R.R Martin   | A Knight of the Seven Kingdoms                  |       | 22/03/23 |   6    |
-| G.R.R Martin   | A Dance with Dragons                            |   2   | 04/03/23 |   8    |
-| G.R.R Martin   | A Dance with Dragons                            |   1   | 01/03/23 |   7    |
-| G.R.R Martin   | A Feast for Crows                               |       | 04/02/23 |   6    |
-| G.R.R Martin   | A Storm of Swords                               |   2   | 18/01/23 |   9    |
-| G.R.R Martin   | A Storm of Swords                               |   1   | 01/01/23 |   7    |
-| G.R.R Martin   | A Clash of Kings                                |       | 22/12/22 |   7    |
-| G.R.R Martin   | A Game of Thrones                               |       | 28/10/22 |   8    |
-| D. Wong        | What the Hell Did I Just Read                   |       | 21/07/22 |   3    |
+|     Author      |                          Title                           | Part  |   Date   | Rating |
+| --------------- | -------------------------------------------------------- | :---: | :------: | :----: |
+| R. L. Stevenson | Dr Jekyll and Mr Hyde with The Merry Men & Other Stories |       | 02/11/26 |   6    |
+| J. K. Jerome    | The Street of the Blank Wall: And Other Stories          |       | 14/10/26 |   6    |
+| A. Conan Doyle  | The Adventure of Six Napoleons and Other Cases           |       | 04/10/26 |   6    |
+| A. Conan Doyle  | The Five Orange Pips and Other Cases                     |       | 10/09/26 |   7    |
+| T. Clancy       | The Hunt for Red October                                 |       | 04/02/26 |   5    |
+| G.R.R Martin    | *Fire and Blood*                                         |       | 06/12/25 |   6    |
+| B. Sanderson    | Wind and Truth                                           |       | 20/06/25 |   5    |
+| B. Sanderson    | Rhythm of War                                            |   2   | 02/02/25 |   6    |
+| B. Sanderson    | Rhythm of War                                            |   1   | 23/12/24 |   5    |
+| A. Sapkowski    | *Blood of Elves*                                         |       | 03/10/24 |   5    |
+| A. Sapkowski    | *The Sword of Destiny*                                   |       | 17/08/24 |   6    |
+| A. Sapkowski    | *The Last Wish*                                          |       | 21/07/24 |   6    |
+| R. Jordan       | The Eye of the World                                     |       | 22/06/24 |   3    |
+| M. Druon        | The Iron King                                            |       | 02/02/24 |   6    |
+| B. Sanderson    | Dawnshard                                                |       | 13/01/24 |   4    |
+| B. Sanderson    | Oathbringer                                              |   2   | 27/12/23 |   4    |
+| B. Sanderson    | Oathbringer                                              |   1   | 26/10/23 |   5    |
+| B. Sanderson    | Edgedancer                                               |       | 21/09/23 |   5    |
+| B. Sanderson    | Words of Radiance                                        |   2   | 12/09/23 |   7    |
+| B. Sanderson    | Words of Radiance                                        |   1   | 08/09/23 |   6    |
+| B. Sanderson    | The Way of Kings                                         |   2   | 30/08/23 |   8    |
+| B. Sanderson    | The Way of Kings                                         |   1   | 26/08/23 |   6    |
+| J.R.R Tolkien   | The Lord of the Rings                                    |       | 13/08/23 |   4    |
+| G.R.R Martin    | Fire and Blood                                           |       | 17/05/23 |   8    |
+| G.R.R Martin    | A Knight of the Seven Kingdoms                           |       | 22/03/23 |   6    |
+| G.R.R Martin    | A Dance with Dragons                                     |   2   | 04/03/23 |   8    |
+| G.R.R Martin    | A Dance with Dragons                                     |   1   | 01/03/23 |   7    |
+| G.R.R Martin    | A Feast for Crows                                        |       | 04/02/23 |   6    |
+| G.R.R Martin    | A Storm of Swords                                        |   2   | 18/01/23 |   9    |
+| G.R.R Martin    | A Storm of Swords                                        |   1   | 01/01/23 |   7    |
+| G.R.R Martin    | A Clash of Kings                                         |       | 22/12/22 |   7    |
+| G.R.R Martin    | A Game of Thrones                                        |       | 28/10/22 |   8    |
+| D. Wong         | What the Hell Did I Just Read                            |       | 21/07/22 |   3    |
 
 #### Non-fiction
 
-|      Author       |          Title           |   Date   |
-| ----------------- | ------------------------ | :------: |
-| Dr Micheal Mosley | Just One Thing           | 04/09/25 |
-| Scott Chacon      | Pro Git (85%)            | 15/04/26 |
-| Jon Stokes        | Inside the Machine (45%) | 17/05/26 |
-| Robert Kiyosaki   | Rich Dad Poor Dad        | 01/06/26 |
+|   Author    |          Title           |   Date   |
+| ----------- | ------------------------ | :------: |
+| K. Amini    | Extreme C (50%)          | 02/10/26 |
+| R. Kiyosaki | Rich Dad Poor Dad        | 01/06/26 |
+| J. Stokes   | Inside the Machine (45%) | 17/05/26 |
+| S. Chacon   | Pro Git (85%)            | 15/04/26 |
+| M. Mosley   | Just One Thing           | 04/09/25 |
 
 ---
 
