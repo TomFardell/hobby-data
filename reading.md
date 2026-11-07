@@ -12,6 +12,8 @@ History of books read. The ratings are centred around a baseline of 5.5 (5 would
 
 |     Author      |                          Title                           | Part  |   Date   | Rating |
 | --------------- | -------------------------------------------------------- | :---: | :------: | :----: |
+| A. Spiegelman   | Maus                                                     |   2   | 05/11/26 |   6    |
+| A. Spiegelman   | Maus                                                     |   1   | 04/11/26 |   7    |
 | R. L. Stevenson | Dr Jekyll and Mr Hyde with The Merry Men & Other Stories |       | 02/11/26 |   6    |
 | J. K. Jerome    | The Street of the Blank Wall: And Other Stories          |       | 14/10/26 |   6    |
 | A. Conan Doyle  | The Adventure of Six Napoleons and Other Cases           |       | 04/10/26 |   6    |
