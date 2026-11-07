@@ -19,7 +19,7 @@ History of books read. The ratings are centred around a baseline of 5.5 (5 would
 | A. Conan Doyle  | The Adventure of Six Napoleons and Other Cases           |       | 04/10/26 |   6    |
 | A. Conan Doyle  | The Five Orange Pips and Other Cases                     |       | 10/09/26 |   7    |
 | T. Clancy       | The Hunt for Red October                                 |       | 04/02/26 |   5    |
-| G.R.R Martin    | *Fire and Blood*                                         |       | 06/12/25 |   6    |
+| G.R.R Martin    | *Fire and Blood*                                         |       | 06/12/25 |   7    |
 | B. Sanderson    | Wind and Truth                                           |       | 20/06/25 |   5    |
 | B. Sanderson    | Rhythm of War                                            |   2   | 02/02/25 |   6    |
 | B. Sanderson    | Rhythm of War                                            |   1   | 23/12/24 |   5    |
